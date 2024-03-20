@@ -1,0 +1,4 @@
+mse
+patch discriminator
+wasserstein gan
+rajouter mse en plus avec dtw ou norme 2
